@@ -17,13 +17,13 @@ example_base64 = 'iVBORw0KGgoAAAANSUhEUgAAADwAAAAWCAIAAAATqWh1AAAABnRSTlMAZgAAAA
 example_appcode = '45fbfd16abe04372ac45479aed31b5cb'
 
 # 学号
-username = '15031243'
+username = ''
 # 密码
-password = 'wj19961028'
+password = ''
 # 年级
-nj = '2015'
+nj = ''
 #行政班
-hidXZB = '15052712'
+hidXZB = ''
 
 
 def getCode(pic, appcode):
